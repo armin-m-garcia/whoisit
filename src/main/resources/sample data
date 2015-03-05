@@ -1,0 +1,172 @@
+{  
+   "d":{  
+      "results":[  
+         {  
+            "__metadata":{  
+               "uri":"https://api.datamarket.azure.com/Data.ashx/Bing/Search/v1/Web?Query=\u0027Lindsey Dimattina radaronline.com twitter profile\u0027&Market=\u0027en-US\u0027&$skip=0&$top=1",
+               "type":"WebResult"
+            },
+            "ID":"c0a227a0-5a7a-4215-80b1-d055d270fd6b",
+            "Title":"Lindsey DiMattina | LinkedIn",
+            "Description":"View Lindsey DiMattina\u0027s professional profile on LinkedIn. LinkedIn is the world\u0027s largest business network, helping professionals like Lindsey DiMattina discover ...",
+            "DisplayUrl":"https://www.linkedin.com/pub/lindsey-dimattina/a/4ba/642",
+            "Url":"https://www.linkedin.com/pub/lindsey-dimattina/a/4ba/642"
+         },
+         {  
+            "__metadata":{  
+               "uri":"https://api.datamarket.azure.com/Data.ashx/Bing/Search/v1/Web?Query=\u0027Lindsey Dimattina radaronline.com twitter profile\u0027&Market=\u0027en-US\u0027&$skip=1&$top=1",
+               "type":"WebResult"
+            },
+            "ID":"80cd0dc4-78a8-4e47-b3b9-cb7211196dcd",
+            "Title":"Lindsey DiMattina (@LDimat) | Twitter - Welcome to Twitter ...",
+            "Description":"The latest Tweets from Lindsey DiMattina (@LDimat). Pour a nice glass of wine, and life will be fine. New York City",
+            "DisplayUrl":"https://twitter.com/LDimat",
+            "Url":"https://twitter.com/LDimat"
+         },
+         {  
+            "__metadata":{  
+               "uri":"https://api.datamarket.azure.com/Data.ashx/Bing/Search/v1/Web?Query=\u0027Lindsey Dimattina radaronline.com twitter profile\u0027&Market=\u0027en-US\u0027&$skip=2&$top=1",
+               "type":"WebResult"
+            },
+            "ID":"69aa8d01-33e1-4189-beb7-4a5d4b00785c",
+            "Title":"Radar Online | Lindsey DiMattina",
+            "Description":"Lindsey DiMattina. Latest Articles. New ... but RadarOnline.com is exclusively reporting that The Real Housewives of ... Kanye West Disses Amber Rose After Twitter ...",
+            "DisplayUrl":"radaronline.com/author/ldimattina/page/9",
+            "Url":"http://radaronline.com/author/ldimattina/page/9/"
+         },
+         {  
+            "__metadata":{  
+               "uri":"https://api.datamarket.azure.com/Data.ashx/Bing/Search/v1/Web?Query=\u0027Lindsey Dimattina radaronline.com twitter profile\u0027&Market=\u0027en-US\u0027&$skip=3&$top=1",
+               "type":"WebResult"
+            },
+            "ID":"2391b965-f2c0-4ced-a806-c30638aed8eb",
+            "Title":"Lindsey DiMattina - Radar Online | Hottest Celebrity ...",
+            "Description":"Lindsey DiMattina. Latest Articles. Taylor Armstrong Addresses Rumors She’ll Return To ‘RHOBH\u0027 Will she or won’t she? Amid news of a cast shakeup on Real ...",
+            "DisplayUrl":"radaronline.com/author/ldimattina/page/7",
+            "Url":"http://radaronline.com/author/ldimattina/page/7/"
+         },
+         {  
+            "__metadata":{  
+               "uri":"https://api.datamarket.azure.com/Data.ashx/Bing/Search/v1/Web?Query=\u0027Lindsey Dimattina radaronline.com twitter profile\u0027&Market=\u0027en-US\u0027&$skip=4&$top=1",
+               "type":"WebResult"
+            },
+            "ID":"bc0c94c0-b87b-422c-b13d-ae17c849c52d",
+            "Title":"Radar Online | Lindsey DiMattina",
+            "Description":"Lindsey DiMattina. Latest Articles. Porsha: Claudia And NeNe\u0027s Fight In Puerto Rico Marked \u0027A Dark Moment’... What was supposed to be a pleasant trip to Puerto ...",
+            "DisplayUrl":"radaronline.com/author/ldimattina/page/2",
+            "Url":"http://radaronline.com/author/ldimattina/page/2/"
+         },
+         {  
+            "__metadata":{  
+               "uri":"https://api.datamarket.azure.com/Data.ashx/Bing/Search/v1/Web?Query=\u0027Lindsey Dimattina radaronline.com twitter profile\u0027&Market=\u0027en-US\u0027&$skip=5&$top=1",
+               "type":"WebResult"
+            },
+            "ID":"953b0148-1429-4e96-abd5-ae5ec14ca945",
+            "Title":"Radar Online | Lindsey DiMattina",
+            "Description":"Lindsey DiMattina. Latest Articles ... but RadarOnline.com has learned that the drama between former co-stars ... Nathan Griffith Deletes Twitter Amid Breakup Rumors ...",
+            "DisplayUrl":"radaronline.com/author/ldimattina/page/8",
+            "Url":"http://radaronline.com/author/ldimattina/page/8/"
+         },
+         {  
+            "__metadata":{  
+               "uri":"https://api.datamarket.azure.com/Data.ashx/Bing/Search/v1/Web?Query=\u0027Lindsey Dimattina radaronline.com twitter profile\u0027&Market=\u0027en-US\u0027&$skip=6&$top=1",
+               "type":"WebResult"
+            },
+            "ID":"1170955b-4953-4ab6-8c60-604ef5a36dc7",
+            "Title":"Real Housewives Of Atlanta Demetria McKinney Slams NeNe ...",
+            "Description":"Demetria McKinney is one of the newbies on the Real Housewives of Atlanta, ... In an exclusive interview with RadarOnline. ... By Lindsey DiMattina.",
+            "DisplayUrl":"radaronline.com/exclusives/2014/12/real-housewives-atlanta-feud...",
+            "Url":"http://radaronline.com/exclusives/2014/12/real-housewives-atlanta-feud-nene-leakes-phaedra-parks-demetria-mckinney/"
+         },
+         {  
+            "__metadata":{  
+               "uri":"https://api.datamarket.azure.com/Data.ashx/Bing/Search/v1/Web?Query=\u0027Lindsey Dimattina radaronline.com twitter profile\u0027&Market=\u0027en-US\u0027&$skip=7&$top=1",
+               "type":"WebResult"
+            },
+            "ID":"98264384-d59d-48f9-90f0-35b78040d061",
+            "Title":"Lindsey DiMattina - Google+",
+            "Description":"Lindsey DiMattina - Senior Reporter ... Star Magazine, and RadarOnline.com - New York, NY. Search; Images; Maps; Play; YouTube; News; ... Profile. People. Photos ...",
+            "DisplayUrl":"https://plus.google.com/115558057221310078521",
+            "Url":"https://plus.google.com/115558057221310078521"
+         },
+         {  
+            "__metadata":{  
+               "uri":"https://api.datamarket.azure.com/Data.ashx/Bing/Search/v1/Web?Query=\u0027Lindsey Dimattina radaronline.com twitter profile\u0027&Market=\u0027en-US\u0027&$skip=8&$top=1",
+               "type":"WebResult"
+            },
+            "ID":"a6773989-cfbd-400b-b98c-f86ecb988f0e",
+            "Title":"Bobbi Kristina Brown Hospitalized – Whitney Houston ...",
+            "Description":"... -vivica-a-fox-prayers/\" class=\"read_more\"\u003eREAD ON Radar Home; Breaking News ... Click to share on Twitter (Opens in ... By Lindsey DiMattina.",
+            "DisplayUrl":"radaronline.com/exclusives/2015/02/bobbi-kristina-brown...",
+            "Url":"http://radaronline.com/exclusives/2015/02/bobbi-kristina-brown-hospitalized-vivica-a-fox-prayers/"
+         },
+         {  
+            "__metadata":{  
+               "uri":"https://api.datamarket.azure.com/Data.ashx/Bing/Search/v1/Web?Query=\u0027Lindsey Dimattina radaronline.com twitter profile\u0027&Market=\u0027en-US\u0027&$skip=9&$top=1",
+               "type":"WebResult"
+            },
+            "ID":"437f1889-8870-4a28-aef2-ce75ad449b44",
+            "Title":"Claudia Jordan-NeNe Leakes Feud Heats Up On ‘Real ...",
+            "Description":"... the brutal feud between NeNe Leakes and Claudia Jordan continues in Puerto Rico, ... Click to share on Twitter (Opens in new ... By Lindsey DiMattina.",
+            "DisplayUrl":"radaronline.com/exclusives/2015/01/claudia-jordan-nene-leakes...",
+            "Url":"http://radaronline.com/exclusives/2015/01/claudia-jordan-nene-leakes-fight-real-housewives-atlanta/"
+         },
+         {  
+            "__metadata":{  
+               "uri":"https://api.datamarket.azure.com/Data.ashx/Bing/Search/v1/Web?Query=\u0027Lindsey Dimattina radaronline.com twitter profile\u0027&Market=\u0027en-US\u0027&$skip=10&$top=1",
+               "type":"WebResult"
+            },
+            "ID":"fcf73060-f4cc-4492-8e56-05a50846429e",
+            "Title":"Lindsey DiMattina | OK! Magazine | ZoomInfo.com",
+            "Description":"View Lindsey DiMattina\u0027s business profile as Reporter at OK! ... Tweet this profile on Twitter. ... RadarOnline.com;",
+            "DisplayUrl":"www.zoominfo.com/p/Lindsey-DiMattina/2013360057",
+            "Url":"http://www.zoominfo.com/p/Lindsey-DiMattina/2013360057"
+         },
+         {  
+            "__metadata":{  
+               "uri":"https://api.datamarket.azure.com/Data.ashx/Bing/Search/v1/Web?Query=\u0027Lindsey Dimattina radaronline.com twitter profile\u0027&Market=\u0027en-US\u0027&$skip=11&$top=1",
+               "type":"WebResult"
+            },
+            "ID":"3d4cfaad-6f64-4d97-ac45-ff2cefb276fc",
+            "Title":"Dimattina profiles | LinkedIn",
+            "Description":"Dimattina profiles Name Search. ... View Full Profile; Lindsey DiMattina ... Magazine, Star Magazine, RadarOnline.com Demographic info Greater New York City Area ...",
+            "DisplayUrl":"https://www.linkedin.com/pub/dir/+/dimattina",
+            "Url":"https://www.linkedin.com/pub/dir/+/dimattina/"
+         },
+         {  
+            "__metadata":{  
+               "uri":"https://api.datamarket.azure.com/Data.ashx/Bing/Search/v1/Web?Query=\u0027Lindsey Dimattina radaronline.com twitter profile\u0027&Market=\u0027en-US\u0027&$skip=12&$top=1",
+               "type":"WebResult"
+            },
+            "ID":"b5ea9910-1311-4b3c-8cda-dfe48e8e331e",
+            "Title":"Amanda Knox Case Has CdA Angle - Huckleberries Online ...",
+            "Description":"Amanda Knox wasn’t ... “Honor Bound,�? and finding his GoFundMe Page linked to his Facebook profile/Lindsey DiMattina, RadarOnline. ... DFO on Twitter.",
+            "DisplayUrl":"www.spokesman.com/blogs/hbo/2014/jan/22/amanda-knox-scandal-has...",
+            "Url":"http://www.spokesman.com/blogs/hbo/2014/jan/22/amanda-knox-scandal-has-cda-angle/"
+         },
+         {  
+            "__metadata":{  
+               "uri":"https://api.datamarket.azure.com/Data.ashx/Bing/Search/v1/Web?Query=\u0027Lindsey Dimattina radaronline.com twitter profile\u0027&Market=\u0027en-US\u0027&$skip=13&$top=1",
+               "type":"WebResult"
+            },
+            "ID":"6c92c4e6-7cd2-47f4-9252-592472b1d307",
+            "Title":"Stevie Ryan on Twitter: \"@PBandJenelley_1 @LDimat JENELLE ...",
+            "Description":"Lindsey DiMattina �? @LDimat Feb 13 @ ... Go to a person\u0027s profile. Saved searches @ Suggested users @ @ Retweet ... Twitter stores that location.",
+            "DisplayUrl":"https://twitter.com/StevieRyan/status/566416341762985985",
+            "Url":"https://twitter.com/StevieRyan/status/566416341762985985"
+         },
+         {  
+            "__metadata":{  
+               "uri":"https://api.datamarket.azure.com/Data.ashx/Bing/Search/v1/Web?Query=\u0027Lindsey Dimattina radaronline.com twitter profile\u0027&Market=\u0027en-US\u0027&$skip=14&$top=1",
+               "type":"WebResult"
+            },
+            "ID":"11fcbc08-d7e5-4bd0-8e05-336cad20e385",
+            "Title":"Lindsey Dimattina | Whitepages",
+            "Description":"View Lindsey Dimattina\u0027s phone number, address and more on Whitepages. ... View Full Profile. Make Contact Find neighbors, distant relatives or anyone ...",
+            "DisplayUrl":"www.whitepages.com/name/Lindsey-Dimattina",
+            "Url":"http://www.whitepages.com/name/Lindsey-Dimattina"
+         }
+      ],
+      "__next":"https://api.datamarket.azure.com/Data.ashx/Bing/Search/v1/Web?Query=\u0027Lindsey%20Dimattina%20radaronline.com%20twitter%20profile\u0027&Market=\u0027en-US\u0027&$skip=15&$top=15"
+   }
+}
